@@ -1,5 +1,5 @@
 {
-    "items":[
+    "usuarios":[
 
 	{
 		"name": "Diego Ramirez",
@@ -25,5 +25,27 @@
 		"telefono": "123456"
 	}
 
+    ],
+    
+     "negocios":
+    [
+
+        {
+            "name": "quesadillas doña ester",
+            "tipo": "quesadillas",
+            "telefono": "5517283876"
+        },
+
+        {
+            "name": "tacos el jarocho",
+            "tipo": "tacos",
+            "telefono": "552356"
+        },
+
+        {
+            "name": "tortas ruben",
+            "tipo": "tortas",
+            "telefono": "9999999"
+        }
     ]
 }
