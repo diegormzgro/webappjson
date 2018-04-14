@@ -1,0 +1,29 @@
+{
+    "items":[
+
+	{
+		"name": "Diego Ramirez",
+		"email": "diegormzgro@gmail.com",
+		"telefono": "5517283876"
+	},
+
+	{
+		"name": "Valery Smith",
+		"email": "smitho@gmail.com",
+		"telefono": "552356"
+	},
+
+	{
+		"name": "Juan RayoMcquin",
+		"email": "elrayito@gmail.com",
+		"telefono": "9999999"
+	},
+
+	{
+		"name": "Mauricio Goku",
+		"email": "ssjblue@gmail.com",
+		"telefono": "123456"
+	}
+
+    ]
+}
